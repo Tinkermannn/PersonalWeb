@@ -15,7 +15,7 @@ document.addEventListener('click', function(e) {
     }
 } )
 
-// Text Gerak
+// Text Bergerak
 var typing = new Typed (".text-gerak", {
     strings: ["Wilman Saragih", "Computer Engineering Student"],
 // Untuk mengatur kata yang ditampilkan
